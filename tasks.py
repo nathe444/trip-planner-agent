@@ -44,7 +44,7 @@ class TravelTasks:
         return Task(
             description = dedent(
                 f"""
-                Task: Gather In-depth City GUide Information
+                Task: Gather In-depth City Guide Information
                 Description: Compile an in-depth guide for the selected city, gathering information about key attractions, local custom, special events, and daily activity recommendations. This guide should provide a thorough overview of what the city has to offer, including hidden gems, cultural hotspots, must-visit landmarks, weather forecasts, and high-level cost
                 Parameters:
                 - City: {city}

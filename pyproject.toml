@@ -10,6 +10,7 @@ python = "^3.10"
 crewai = "^0.1.0"
 unstructured = "==0.10.25"
 pyowm = "^3.3.0"
+langchain-groq= "<0.2.0"
 python-dotenv = "^0.21.0"
 
 [tool.pyright]
